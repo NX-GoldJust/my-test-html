@@ -1,0 +1,9 @@
+<p> Texte </p>
+<h1>Titre</h1>
+<img src="IMAGE" alt="NOM Image", height="TAILLE">
+<video src="file" autoplay loop muted></video>
+
+<a href="url"target="_blank">Html</a>
+
+
+https://htmlcheatsheet.com/ 
